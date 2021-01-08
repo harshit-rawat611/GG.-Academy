@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+}
+.wrapper {
+  background: white;
+  padding: 50px;
+}
+h1{
+  font-family: georgia;
+  font-size: 25px;
+  padding-left: 07px;
+}
+p {
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.footer
+{padding-top: 110px;
+  font-size: 10px;
+  font-family: sans-serif;
+  color: #4D5656;
+  text-align: center;
+}

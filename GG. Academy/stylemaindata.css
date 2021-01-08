@@ -1,0 +1,91 @@
+body{
+  background-color: #D0D3D4;
+  margin: 0px;
+}
+.topnav {
+  background-color: #191919;
+  overflow: hidden;
+  color:white;
+  padding-right: 30px;
+}
+.topnav a {
+  float: right;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 19px;
+}
+.topnav a:hover {
+  background-color: #FF8b3d;
+  color: white; }
+#logo {
+  padding-top: 0px;
+  padding-left: 30px;
+  width: 55px;
+  height: 45px;
+}
+#top {
+  padding-left: 45px;
+color:#D35400;
+}
+.main-content {
+  background-color: white;
+  margin: 0px 150px 0px 150px;
+  padding: 10px 100px 10px 200px;
+}
+a{
+  color: #17202A;
+  font-family: sans-serif;
+  font-size: 25px;
+}
+a:hover {
+  color:#D35400;
+}
+p {
+  font-size: 18px;
+  font-family: serif;
+}
+.footer
+{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 100%;
+  padding-top: 10px;
+  background-color: #191919;
+  color: white;
+  padding-bottom: 10px;
+}
+.white {
+  text-decoration: none;
+  color: white;
+  font-size: 12px;
+}
+#first {
+  padding-top: 10px;
+  padding-left: 200px;
+}
+#second{
+  padding-top: 10px;
+  padding-left: 65px;
+}
+#third {
+  padding-top: 10px;
+  padding-left: 65px
+}
+#fourth {
+  padding-top: 10px;
+  padding-left: 65px
+}
+#fifth {
+  padding-top: 10px;
+  padding-left: 65px
+}
+.foot{
+  margin-bottom: 0;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #D0D3D4;
+  background-color: black;
+}

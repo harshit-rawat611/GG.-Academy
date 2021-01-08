@@ -1,0 +1,51 @@
+body {
+  margin: 0px;
+}
+.wrapper {
+  padding: 20px 100px 50px 100px;
+background-color: #F0F3F4;
+}
+.top{
+  padding-left: 100px;
+  padding-right: 100px;
+  text-align: center;
+}
+.mid {
+  margin-top: 50px;
+
+}
+h1
+{
+  font-family: georgia;
+}
+p {
+  font-family: sans-serif;
+}
+#add{
+  width: 40px;
+  height: 47px;
+  padding-right: 20px;
+}
+#phone{
+  width: 40px;
+  height: 40px;
+}
+#mail {
+  width: 48px;
+  height: 33px;
+}
+.btn {
+  color: white;
+  font-family: georgia;
+background: #2C3E50;
+}
+.btn:hover {
+ background: #17202A
+}
+.footer{
+  padding-top: 100px;
+  font-size: 13px;
+  font-family: sans-serif;
+  color: #4D5656;
+  text-align: center;
+}

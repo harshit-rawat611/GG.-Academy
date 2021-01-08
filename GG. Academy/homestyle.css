@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+}
+#logo {
+  padding-top: 5px;
+  padding-left: 50px;
+  width: 60px;
+  height: 50px;
+}
+#comp-name {
+  font-family: cursive;
+}
+.topnav {
+  background-color: #191919;
+  overflow: hidden;
+  color:white;
+  padding-right: 50px;
+}
+.topnav a {
+  float: right;
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+.topnav a:hover {
+  background-color: #FF8b3d;
+  color: white;
+}
+  .main-center {
+  padding-top: 25px;
+  margin-left: 28%;
+  font-family: cursive ;
+    text-align: center;
+    }
+#img1 {
+  width: 300px;
+  height: 300px;
+}
+.explore {
+  text-align: center;
+}
+#first-t {
+margin-left: 425px;
+}
+.orange-box {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  font-family: georgia;
+  background-color: #ff8b3d;
+}
+.foot{
+  margin-top: 0px;;
+  text-align: center;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  color: #D0D3D4;
+  background-color: black;
+}
+.edu-logo {
+  height: 60px;
+  width: 60px;
+  padding: 10px;
+}
+.read-more{
+  padding: 5px 0px 5px 30px;
+  background: #ECF0F1;
+  margin-left: 50px;
+  margin-right: 50px
+}
+a {
+  color: #17202A;
+  text-decoration: none;
+}
+a:hover {
+  color: #DC7633;
+}
